@@ -1,0 +1,108 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url("../img/image-school.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.menu{
+    width: auto;
+    height: auto;
+    background-color: #333;
+}
+
+.id{
+    text-decoration: none;
+    color: black;
+}
+
+.menu .container ul li a{
+    display: inline-block;
+    padding: 25px;
+}
+
+.container ul{
+    float: right;
+    list-style: none;
+}
+
+.container ul li a{
+    text-decoration: none;
+    color: #333333;
+}
+
+.copy-right{
+    width: auto;
+    height: auto;
+    color: white;
+    background-color: black;
+    margin-top: 900px;
+}
+
+
+
+
+
+
+.menu-about{
+    width: auto;
+    height: auto;
+    background-color: #333;
+}
+
+.menu-about .id{
+    text-decoration: none;
+    color: black;
+}
+
+.menu-about .about ul li a{
+    display: inline-block;
+    padding: 25px;
+}
+
+.about ul{
+    float: right;
+    list-style: none;
+}
+
+.about ul li a{
+    text-decoration: none;
+    color: #333333;
+}
+
+.copy-right{
+    width: auto;
+    height: auto;
+    color: white;
+    background-color: black;
+    margin-top: 900px;
+}
+
+.text-style{
+    background-color: green;
+    color: #333333;
+}
+
+.contact{
+    margin-top: -500px;
+    color: white;
+    background-color: black;
+    width: 65%;
+}
+
+.malumot{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.contact1{
+    width: auto;
+    height: auto;
+    background-color: green;
+}
